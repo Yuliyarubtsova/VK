@@ -9,7 +9,7 @@ public class PostManager {
 
         return posts;
     }
-    public void delete(int id){  // удаление поста
+    public void delete(int id, int ownerId){  // удаление поста
 
     }
 
