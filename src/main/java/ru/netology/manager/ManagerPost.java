@@ -14,7 +14,7 @@ public class ManagerPost {
         return posts;
     }
     public Post[] deletePost(){  // удаление поста
-       return null
+       return null;
     }
 
 }
