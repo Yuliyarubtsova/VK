@@ -7,6 +7,5 @@ public class CommentsInfo {
     private String comment; // сам комментарий
     private boolean canAnswerPost;   // возможность написания ответа на комментарий
 
-     ...
     // + get/set на все поля
 }
